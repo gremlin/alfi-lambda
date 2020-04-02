@@ -70,3 +70,6 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 ![Create Function 13-5](img/13-5.png)
 ![Create Function 13-6](img/13-6.png)
 ![Create Function 13-7](img/13-7.png)
+
+* Code configuration
+![Create Function 13-8](img/13-8.png)
