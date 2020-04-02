@@ -8,7 +8,8 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 * Java 8+
 
 # Steps to get up and running
-## AWS Lambda setup
+
+## AWS Lambda
 * Log into the AWS console, navigate to the Lambda service and select the bright orange button that says "Create Function".
 ![Create Function 1](img/1.png)
 * Leave the preselected "Author from Scratch" tile selected, give your function a name, give your function a name, and finally click the bright orange button that says "Create Function".
@@ -17,7 +18,7 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 ![Create Function 3](img/3.png)
 * On the next screen, click the white "Add environment variable" button.
 ![Create Function 4](img/4.png)
-* Add the following environment variables then click the bright orange "Save" button.
+* Add the following environment variables then click the bright orange "Save" button. [This](https://gremlin.highspot.com/items/5e85f7ff3f65f67c40d49bb6) video show's how to find your Team ID.
 
 *NOTE:* The newlines `\n` in the certificate and private keys.
 
@@ -58,3 +59,14 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 ![Create Function 12](img/12.png)
 
 **Congratulations! You're now ready to setup a Gremlin ALFI Experiment to attack this Lambda Function**
+
+## Gremlin ALFI
+* Setup your ALFI Experiment in Gremlin. Make sure you're in the correct Team (the one associated with the Team ID configured in the Lambda).
+![Create Function 13](img/13.png)
+![Create Function 13-1](img/13-1.png)
+![Create Function 13-2](img/13-2.png)
+![Create Function 13-3](img/13-3.png)
+![Create Function 13-4](img/13-4.png)
+![Create Function 13-5](img/13-5.png)
+![Create Function 13-6](img/13-6.png)
+![Create Function 13-7](img/13-7.png)
