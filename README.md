@@ -34,11 +34,9 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 
 * Scroll up to the "Function code" section then replace the default "Handler" input text with `com.alfilambda.AlfiDemoHandler::handleRequest`.
 ![Create Function 6](img/6.png)
+ 
 
-
-* Clone this repository, change to its directory then execute `mvn clean package`
-
-* From the same "Function code" section, click the "Upload" button. Upload `alfi-lambda/target/alfi-lambda-1.0-SNAPSHOT-jar-with-dependencies.jar`. Then click the orange "Save" button at the top right of your screen.
+* From the same "Function code" section, click the "Upload" button. Upload the latest [release](https://github.com/gremlin/alfi-lambda/releases) jar of this project. 
 
 ![Create Function 8](img/8.png)
 
