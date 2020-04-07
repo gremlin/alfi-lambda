@@ -4,8 +4,7 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 # Prerequisites
 * A Gremlin account
 * An AWS account
-* Maven 2+
-* Java 8+
+* Roughly 20 minutes
 
 # Steps to get up and running
 
