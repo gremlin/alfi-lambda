@@ -19,7 +19,7 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 ![Create Function 4](img/4.png)
 * Add the following environment variables then click the bright orange "Save" button. [This](https://view.highspot.com/viewer/5e8628f6b7b73933558ea6a1) video show's how to find your Team ID.
 
-## **NOTE:** The newlines `\n` in the certificate and private keys.
+## **NOTE:** Two newlines `\n\n` in the certificate and private keys are required.
 
 | Key        | Value           | 
 | ------------- |:-------------:|
