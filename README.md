@@ -35,7 +35,7 @@ Simple example showing how to use Gremlin's ALFI to attack a Lambda function
 ![Create Function 6](img/6.png)
  
 
-* From the same "Function code" section, click the "Upload" button. Upload the latest [release](https://github.com/gremlin/alfi-lambda/releases) jar of this project. 
+* From the same "Function code" section, click the "Upload" button. Upload the latest release jar of this project by clicking [here] (https://github.com/gremlin/alfi-lambda/releases). 
 
 ![Create Function 8](img/8.png)
 
